@@ -1,0 +1,10 @@
+$bg_primary: #e6e6e6;
+
+body {
+  background: $bg_primary;
+  color: #000000;
+}
+.card-img-top {
+  max-width: 15rem;
+  margin: 0 auto;
+}
